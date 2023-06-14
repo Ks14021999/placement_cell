@@ -2,7 +2,7 @@
 
 An interface for the employees of a company to fill in the data into the database and then download it in CSV format.
 
-Visit Live site on -> https://placement-cell-ouf2.onrender.com
+Visit Live site on -> https://placement-cell-1y36.onrender.com
 
 # FEATURES
 
